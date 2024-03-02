@@ -1,0 +1,13 @@
+.image-input-container {
+    position: absolute;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    left: -150px;
+  }
+  
+
+  .hidden {
+    display: none;
+  }

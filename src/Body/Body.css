@@ -1,0 +1,47 @@
+*{
+    margin: 5px;
+}
+
+form{
+    position: relative;
+}
+#hoTen{
+    width: 450px;
+}
+
+#noiSinh{
+    width: 450px;
+}
+
+#nguyenQuan{
+    width: 624px;
+}
+
+#thuongTru{
+    width: 553px;
+}
+
+#ChoO{
+    width: 613px;
+}
+
+
+#sdt{
+    width: 575px;
+}
+
+#cmnd {
+    width: 100px;
+}
+
+#danToc{
+    width: 285px;
+}
+
+#tonGiao{
+    width: 290px;
+}
+
+#noiCap{
+    width: 161px;
+}

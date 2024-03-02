@@ -1,0 +1,26 @@
+.container{
+    position: relative;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-self: center;
+}
+
+h3, h5 {
+    margin: 0;  
+}
+
+.line {
+    border-top: 2px solid #000; /* Màu và độ dày của đường gạch */
+    width: 176.81px;
+    margin-top: 6px;
+}
+
+h2 {
+    margin: 0;
+}
+
+h1{
+    margin-bottom: 0;
+}
