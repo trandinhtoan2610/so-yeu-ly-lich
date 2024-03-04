@@ -2,6 +2,7 @@ import "./App.css";
 import Avatar from "./Avatar"; 
 import Header from "./Header";
 import Body from "./Body";
+import Person from './Person'
 function App() {
   return (
     <div className="App">
@@ -10,7 +11,8 @@ function App() {
         <Header></Header>
       </div>
       <div className="content">
-        <Body></Body>
+        {/* <Body></Body> */}
+        <Person/>
       </div>
     </div>
   );
